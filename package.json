@@ -1,7 +1,7 @@
 {
   "name": "com.recep_yzc.pagesystem",
   "displayName": "Page System",
-  "version": "1.2.1",
+  "version": "1.3.1",
   "unity": "2021.3",
   "description": "Example package for use with the Unity 2018.3 package manager.",
   "type": "tool"
